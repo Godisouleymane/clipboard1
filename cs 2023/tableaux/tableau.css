@@ -1,0 +1,99 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.table {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.table p {
+    margin: 0;
+}
+
+.table h1 {
+    font-size: 20px;
+    margin: 0;
+}
+
+.orange {
+    background-color:#F09B83;
+}
+
+.vert-f {
+    background-color: #91DAC5;
+}
+
+.vert {
+    background-color: #B4E1B0;
+}
+
+.rose {
+    background-color: #AD7078;
+}
+
+.rouge{
+    background-color: #8E4D6C;
+}
+
+.violet {
+    background-color: #8678B7;
+}
+
+.jauneclaire {
+    background-color: #F2FAC9;
+}
+
+.jaune {
+    background-color: #FFEFC5;
+}
+
+.oc {
+    background-color: #F2CBA6;
+}
+
+.bleu {
+    background-color: #7AB2D0;
+}
+
+#profil {
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+}
+
+.image {
+    margin-left: 60%;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.vide {
+    height: 20px;
+}
+
+@media  screen and (max-width:1540px){
+    table tr td{
+        font-size: 12px;
+    }
+}
+@media  screen and (max-width:1170px){
+    table tr td{
+        font-size: 10px;
+    }
+}
+@media  screen and (max-width:990px){
+    table tr td{
+        font-size: 8px;
+    }
+}
+@media  screen and (max-width:800px){
+    table tr td{
+        font-size: 6px;
+    }
+}
+@media  screen and (max-width:630px){
+    table tr td{
+        font-size: 5px;
+    }
+}

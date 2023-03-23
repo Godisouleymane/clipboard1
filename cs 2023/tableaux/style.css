@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.card {
+    background-color: rgba(149, 140, 249, 0.688);
+    text-align: center;
+    width: 600px;
+    height: 300px;
+    border-radius: 15px;
+
+}
+
+#btn {
+    border-radius: 10px;
+    border: none;
+    background-color: aquamarine;
+    width: 230px;
+    height: 25px;
+    font-size: 20px;
+    margin-top: 20px;
+    
+}
+
+#btn:hover {
+    background-color: white;
+    cursor: pointer;
+}
+
+#check {
+    margin-top: 30px;
+}
+
+.card h1 {
+    font-size: 50px;
+}
+
+.box {
+    font-size: 23px;
+    margin-top: 40px;
+}
+
+@media only screen and (max-width: 900px){
+    .container{
+        text-align: center;
+        width: 780px;
+    }
+    .table {
+        text-align: center;
+        font-size:15px; 
+        
+        }
+    
+}

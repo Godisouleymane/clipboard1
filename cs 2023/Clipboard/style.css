@@ -1,0 +1,59 @@
+.header {
+    background-image: url(images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+.header {
+    text-align: center;
+}
+
+
+#logo {
+    width: 90px;
+}
+
+H1, p {
+    font-weight: 400;
+}
+
+
+.text {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.dv {
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+    
+}
+
+.text2 {
+    text-align: center;
+}
+
+.text3 {
+    text-align: center;
+}
+
+
+#pc {
+    margin-right: 90px;
+}
+
+.icon{
+    display: flex;
+    margin-top: 90px;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: aqua;
+    width: 80%;
+    margin-left: 10%;
+}
+
+
